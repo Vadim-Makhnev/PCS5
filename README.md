@@ -1,6 +1,6 @@
-##Практическая работа N5
+## Практическая работа N5
 
-#Махнев Вадим Анатольевич ЭФБО-05-22
+# Махнев Вадим Анатольевич ЭФБО-05-22
 
 ![PCS5(4)](https://github.com/user-attachments/assets/a283ec6a-b1a7-4c4f-a207-50d6f64389e6)
 ![PCS5(3)](https://github.com/user-attachments/assets/75ca6e4f-11f1-49fe-bce0-f3aab0a1ad35)
